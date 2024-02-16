@@ -1,0 +1,2 @@
+db.help();
+db.hostInfo();
